@@ -1,0 +1,15 @@
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/bin/Debug/net8.0/opgave1
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/bin/Debug/net8.0/opgave1.deps.json
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/bin/Debug/net8.0/opgave1.runtimeconfig.json
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/bin/Debug/net8.0/opgave1.dll
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/bin/Debug/net8.0/opgave1.pdb
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.AssemblyInfoInputs.cache
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.AssemblyInfo.cs
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.csproj.CoreCompileInputs.cache
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.sourcelink.json
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.dll
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/refint/opgave1.dll
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.pdb
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/opgave1.genruntimeconfig.cache
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave1/obj/Debug/net8.0/ref/opgave1.dll

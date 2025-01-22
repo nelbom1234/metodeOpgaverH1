@@ -1,0 +1,15 @@
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/bin/Debug/net8.0/opgave6
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/bin/Debug/net8.0/opgave6.deps.json
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/bin/Debug/net8.0/opgave6.runtimeconfig.json
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/bin/Debug/net8.0/opgave6.dll
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/bin/Debug/net8.0/opgave6.pdb
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.AssemblyInfoInputs.cache
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.AssemblyInfo.cs
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.csproj.CoreCompileInputs.cache
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.sourcelink.json
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.dll
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/refint/opgave6.dll
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.pdb
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/opgave6.genruntimeconfig.cache
+/home/nelbom1234/Documents/H1/metodeOpgaverH1/opgave6/obj/Debug/net8.0/ref/opgave6.dll
