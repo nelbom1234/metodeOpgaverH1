@@ -1,14 +1,6 @@
 ﻿
 namespace opgave7;
 
-using opgave1;
-using opgave2;
-using opgave3;
-using opgave4;
-using opgave5;
-using opgave6;
-
-
 class Program
 {
     static void Main(string[] args)
@@ -53,6 +45,15 @@ class Program
                 case 6:
                     Opgave6.Run();
                     break;
+                case 7:
+                    Temperatur.Run();
+                    break;
+                case 8:
+                    TalFormer.Run();
+                    break;
+                case 9: 
+                    SøgOrd.Run();
+                    break;
                 default:
                     Console.WriteLine("Det er ikke en gyldig valgmulighed i menuen. tryk enter for at prøve igen.");
                     Console.ReadKey();
@@ -75,8 +76,11 @@ class Program
         Console.WriteLine("2. Udskriv brugerinput");
         Console.WriteLine("3. Aritmetik med 3 tal");
         Console.WriteLine("4. Navn og alder");
-        Console.WriteLine("5. opdel komma-separeret streng");
+        Console.WriteLine("5. Opdel komma-separeret streng");
         Console.WriteLine("6. Gæt et tal-spil");
+        Console.WriteLine("7. Temperatur konverteringer");
+        Console.WriteLine("8. Konverteringer af tal");
+        Console.WriteLine("9. Søg efter ord i tekst");
         Console.WriteLine("0. Luk programmet");
     }
 

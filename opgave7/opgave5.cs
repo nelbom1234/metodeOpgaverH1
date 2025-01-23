@@ -1,4 +1,4 @@
-namespace opgave5;
+namespace opgave7;
 
 class Opgave5
 {
